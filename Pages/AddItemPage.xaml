@@ -1,0 +1,26 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Inventory_Management_System.PageModels"
+             x:Class="Inventory_Management_System.Pages.AddItemPage"
+             Title="Add New Item"
+             x:DataType="viewmodels:AddItemPageModel">
+    <VerticalStackLayout Padding="20">
+        <Label Text="Add a New Item"
+                FontSize="24"
+                HorizontalOptions="Center"/>
+        <Entry Placeholder="Item Name"
+                Text="{Binding Name}"/>
+        <Entry Placeholder="Quantity"
+                Keyboard="Numeric"
+                Text="{Binding Quantity}"/>
+        <Entry Placeholder="Price"
+                Keyboard="Numeric"
+                Text="{Binding Price}"/>
+        <Button Text="Save Item"
+                Command="{Binding SaveItemCommand}"
+                HorizontalOptions="Center"/>
+        <Button Text="Cancel"
+                Command="{Binding CancelCommand}"
+                HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>

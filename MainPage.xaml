@@ -1,0 +1,17 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Inventory_Management_System.PageModels"
+             x:Class="Inventory_Management_System.MainPage"
+             x:DataType="viewmodels:MainPageModel">
+    <Grid RowDefinitions="*, Auto" Padding="20">
+        <Label Text="{Binding WelcomeMessage}" 
+               FontSize="24" 
+               HorizontalOptions="Center" 
+               VerticalOptions="Center"
+               Grid.Row="0" />
+        <Button Text="View Inventory" 
+                Command="{Binding ViewInventoryCommand}" 
+                HorizontalOptions="Center"
+                Grid.Row="1" />
+    </Grid>
+</ContentPage>

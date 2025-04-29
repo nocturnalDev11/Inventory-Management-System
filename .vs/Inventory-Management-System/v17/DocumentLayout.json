@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Inventory-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|c:\\projects\\inventory-management-system\\pagemodels\\additempagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|solutionrelative:pagemodels\\additempagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|c:\\projects\\inventory-management-system\\pagemodels\\itemlistpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|solutionrelative:pagemodels\\itemlistpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|c:\\projects\\inventory-management-system\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|solutionrelative:data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|c:\\projects\\inventory-management-system\\pages\\itemslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|solutionrelative:pages\\itemslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|c:\\projects\\inventory-management-system\\pagemodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|solutionrelative:pagemodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|c:\\projects\\inventory-management-system\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AE0EBF7-7550-49BE-B161-59EE0657B241}|Inventory-Management-System.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemListPageModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Inventory-Management-System\\PageModels\\ItemListPageModel.cs",
+              "RelativeDocumentMoniker": "PageModels\\ItemListPageModel.cs",
+              "ToolTip": "C:\\Projects\\Inventory-Management-System\\PageModels\\ItemListPageModel.cs",
+              "RelativeToolTip": "PageModels\\ItemListPageModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:25:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Inventory-Management-System\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Projects\\Inventory-Management-System\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:15:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddItemPageModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Inventory-Management-System\\PageModels\\AddItemPageModel.cs",
+              "RelativeDocumentMoniker": "PageModels\\AddItemPageModel.cs",
+              "ToolTip": "C:\\Projects\\Inventory-Management-System\\PageModels\\AddItemPageModel.cs",
+              "RelativeToolTip": "PageModels\\AddItemPageModel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:15:32.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsListPage.xaml",
+              "DocumentMoniker": "C:\\Projects\\Inventory-Management-System\\Pages\\ItemsListPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ItemsListPage.xaml",
+              "ToolTip": "C:\\Projects\\Inventory-Management-System\\Pages\\ItemsListPage.xaml",
+              "RelativeToolTip": "Pages\\ItemsListPage.xaml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T06:21:37.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPageModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Inventory-Management-System\\PageModels\\MainPageModel.cs",
+              "RelativeDocumentMoniker": "PageModels\\MainPageModel.cs",
+              "ToolTip": "C:\\Projects\\Inventory-Management-System\\PageModels\\MainPageModel.cs",
+              "RelativeToolTip": "PageModels\\MainPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:15:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Projects\\Inventory-Management-System\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Projects\\Inventory-Management-System\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T06:13:44.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

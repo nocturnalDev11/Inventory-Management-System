@@ -1,0 +1,32 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Inventory_Management_System.PageModels"
+             xmlns:models="clr-namespace:Inventory_Management_System.Models"
+             x:Class="Inventory_Management_System.Pages.ItemListPage"
+             Title="Inventory List"
+             x:DataType="viewmodels:ItemListPageModel">
+    <VerticalStackLayout Padding="20">
+        <Label Text="Inventory List"
+               FontSize="24"
+               HorizontalOptions="Center"/>
+        <CollectionView ItemsSource="{Binding Items}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="models:Item">
+                    <HorizontalStackLayout Padding="10">
+                        <Label Text="{Binding Name}"
+                               FontSize="18"
+                               WidthRequest="150"/>
+                        <Label Text="{Binding Quantity}"
+                               FontSize="18"
+                               WidthRequest="100"/>
+                        <Label Text="{Binding Price, StringFormat='{0:C}'}"
+                               FontSize="18"/>
+                    </HorizontalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button Text="Add New Item"
+                Command="{Binding AddItemCommand}"
+                HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>
